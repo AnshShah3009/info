@@ -1,6 +1,6 @@
 ---
-title: Full Stack Developer Intern, Mbb Labs(Maybank)
-duration: July 2022 - December 2022
-excerpt: Working on Spring MVC, Spring Boot, React.js to create Frontend and Backend projects as per business requirements.
+title: Engineer, Company A
+duration: 2022 - Present
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
 order: 1
 ---
