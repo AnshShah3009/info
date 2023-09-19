@@ -1,6 +1,6 @@
 ---
 title: Full Stack Developement Intern, Company A
 duration: 2022 - Present
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: Worked on Spring MVC, Spring Boot, React.js to create Frontend and Backend projects as per business requirements.
 order: 1
 ---
