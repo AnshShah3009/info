@@ -1,5 +1,5 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
+name: Ansh Shah
+tagline: Roboticist | Computer Vision | Deep Learning
 career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
 color-theme: red # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: anshshah3009@gmail.com
   github: 
     visibility: true
-    handle: arnobk
+    handle: AnshShah3009
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: anshshah3009
   twitter: 
     visibility: true
-    handle: arnobdotme
+    handle: baymax3009
 
 # Collections
 collections:
