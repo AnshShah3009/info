@@ -1,6 +1,6 @@
 ---
 title: Research Intern at Plastic Water Labs
 duration: 2020 - 2022
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: Worked on Unity and TensorFlow. Developed Machine Learning models to segregate broken water bottles from the assembly line of a bottle making plant. Explored AR/VR and worked on small projects on Reinforcement Learning in Unity ML toolkit.
 order: 3
 ---
