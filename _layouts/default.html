@@ -21,8 +21,10 @@
     <div class="ap-container">
         <img class="ap-avater" src={{"assets/images/" | append: site.avatar-filename | relative_url}}
             alt="Avatar for {{site.name}}">
-        <img class="css-after-gradiant" src={{"assets/images/" | append: site.avatar-filename | relative_url}}
+        <div class="css-after-gradiant">
+            <img src={{"assets/images/" | append: site.avatar-filename | relative_url}}
             alt="Avatar for {{site.name}}">
+        </div>
         <h1 class="ap-title">{{site.name}}</h1>
         <h3 class="ap-tagline">{{site.tagline}}</h3>
         <div class="ap-social-header">
