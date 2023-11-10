@@ -60,6 +60,16 @@ a:hover {
     z-index: -1;
 }
 
+// .ap-title {
+//     font-family: "Syne", serif;
+//     font-weight: 600;
+//     font-size: 30px;
+//     letter-spacing: -1px;
+//     line-height: 1.2em;
+//     margin-top: 12px;
+//     margin-bottom: 0px;
+// }
+
 .ap-title {
     font-family: "Syne", serif;
     font-weight: 600;
@@ -68,12 +78,20 @@ a:hover {
     line-height: 1.2em;
     margin-top: 12px;
     margin-bottom: 0px;
+    border-right: 2px solid transparent; /* Initial border */
     animation: cursor 1s infinite step-end;
 }
-@keyframes cursor{
-    0%, 100%{border-color: transparent;}
-    50%{border-color: #000;}
+
+@keyframes cursor {
+    0%, 100% {
+        border-right-color: transparent;
+    }
+    50% {
+        border-right-color: #000;
+    }
 }
+
+
 
 .ap-tagline {
     font-family: "Syne", serif;
