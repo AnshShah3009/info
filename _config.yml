@@ -33,7 +33,7 @@ I'm Ansh Shah, an enthusiast at the intersection of mechanical engineering, phys
 
 color-theme: red # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
+url: anshshah3009.github.io
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
