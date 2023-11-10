@@ -37,14 +37,12 @@ a:hover {
 .css-after-gradiant {
     position: relative;
 }
-
 .css-after-gradiant img {
     width: 75px;
     height: 75px;
     border-radius: 50%;
 }
-
-.css-after-gradiant::before {
+.css-after-gradiant::after {
     content: "";
     width: 85px;
     height: 85px;
