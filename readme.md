@@ -49,7 +49,7 @@ formspree:
 - Login to [Google Analytics](https://analytics.google.com/) and create a new property to receive a Tracking ID for your website.
 - Edit your `_config.yml` of github, make sure it contains following content:
 ```
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-B3KQPF1GMN
 ```
 
 ## Bug Report/Feature Request
